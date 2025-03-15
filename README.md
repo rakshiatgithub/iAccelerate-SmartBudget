@@ -1,1 +1,1 @@
-# iAccelerate-SmartBudget
+# SmartBudgetAssistant
